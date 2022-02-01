@@ -1,10 +1,28 @@
-# Number Guessing Game
-# Instructor-guided prject of Udemy course created by Jonus Schmedimann
-# A random number will be generated automicaticlly from 1 to 20
-# User will have to guess the number
-# Hint will be given
-# 1 mark will be deducted if the user guess the wrong number each time
-# user intial mark is 20
-# if mark goes to zero, the user lose the game.
-# the highest mark record will be shown
-# a game reset button is set for start a new game.
+# Guess my number
+
+# Introduction
+- A interactive number guessing game 
+- The purpose is to show skills in HTML, CSS, JavaScript
+
+## Installation
+- Web Browser
+
+## Game Instruction
+- Open the web browser and the game page
+- A random number will be generated automicaticlly from 1 to 20 by the system
+- The player will be asked to guess the number
+- Hint will be given if the guess is too high or too low
+- One mark will be deducted if the player guess the wrong number each time (intial mark is 20)
+- If mark goes to zero, the player lose the game
+- The highest mark record will be shown
+- A game reset button is there for player to start a new game anytime
+
+## Code Explaination
+- Document Object Model is implemented
+- If else statement is used
+- While loop is used
+
+
+## Credit/Acknowledgment
+- Instructor-guided project
+- Udemy course created by Jonus Schmedimann
