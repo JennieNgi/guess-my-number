@@ -2,6 +2,7 @@
 
 # Introduction
 - A interactive number guessing game 
+- For website display, please go to https://jenniengi.github.io/numberguessinggameweb/
 - The purpose is to show skills in HTML, CSS, JavaScript
 
 ## Installation
