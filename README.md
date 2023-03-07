@@ -1,3 +1,5 @@
+![numberGuessingGame](https://user-images.githubusercontent.com/75710628/223285331-6b3c3108-5ad7-445e-b560-13931460be8c.png)
+
 # Guess my number
 
 # Introduction
